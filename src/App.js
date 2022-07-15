@@ -8,7 +8,6 @@ function App() {
       <div className="wrapper">
         <div className="content">
           <Clock />
-          
         </div>
       </div>
     </div>
