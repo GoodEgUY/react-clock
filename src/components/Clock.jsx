@@ -1,4 +1,3 @@
-import React from "react";
 
 function Clock () {
 
@@ -18,5 +17,4 @@ function Clock () {
         </div>  
     )}
     
-setInterval(Clock, 1000);
 export default Clock;
